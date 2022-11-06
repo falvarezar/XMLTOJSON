@@ -1,0 +1,450 @@
+{
+    "rDE": {
+        "xmlns": [
+            "http://ekuatia.set.gov.py/sifen/xsd"
+        ],
+        "xmlns:xsi": [
+            "http://www.w3.org/2001/XMLSchema-instance"
+        ],
+        "xsi:schemaLocation": [
+            "http://ekuatia.set.gov.py/sifen/xsd siRecepDE_v150.xsd"
+        ],
+        "dVerFor": [
+            "150"
+        ],
+        "DE": [
+            {
+                "Id": [
+                    "01800305728001001056626222022082211914235227"
+                ],
+                "dDVId": [
+                    "7"
+                ],
+                "dFecFirma": [
+                    "2022-08-23T19:39:48"
+                ],
+                "dSisFact": [
+                    "1"
+                ],
+                "gOpeDE": [
+                    {
+                        "iTipEmi": [
+                            "1"
+                        ],
+                        "dDesTipEmi": [
+                            "Normal"
+                        ],
+                        "dCodSeg": [
+                            "191423522"
+                        ]
+                    }
+                ],
+                "gTimb": [
+                    {
+                        "iTiDE": [
+                            "1"
+                        ],
+                        "dDesTiDE": [
+                            "Factura electrónica"
+                        ],
+                        "dNumTim": [
+                            "14342472"
+                        ],
+                        "dEst": [
+                            "001"
+                        ],
+                        "dPunExp": [
+                            "001"
+                        ],
+                        "dNumDoc": [
+                            "0566262"
+                        ],
+                        "dFeIniT": [
+                            "2020-09-18"
+                        ]
+                    }
+                ],
+                "gDatGralOpe": [
+                    {
+                        "dFeEmiDE": [
+                            "2022-08-22T23:59:59"
+                        ],
+                        "gOpeCom": [
+                            {
+                                "iTipTra": [
+                                    "2"
+                                ],
+                                "dDesTipTra": [
+                                    "Prestación de servicios"
+                                ],
+                                "iTImp": [
+                                    "1"
+                                ],
+                                "dDesTImp": [
+                                    "IVA"
+                                ],
+                                "cMoneOpe": [
+                                    "PYG"
+                                ],
+                                "dDesMoneOpe": [
+                                    "Guarani"
+                                ]
+                            }
+                        ],
+                        "gEmis": [
+                            {
+                                "dRucEm": [
+                                    "80030572"
+                                ],
+                                "dDVEmi": [
+                                    "8"
+                                ],
+                                "iTipCont": [
+                                    "2"
+                                ],
+                                "dNomEmi": [
+                                    "AMX PARAGUAY SA"
+                                ],
+                                "dNomFanEmi": [
+                                    "CLARO"
+                                ],
+                                "dDirEmi": [
+                                    "AVDA.MCAL.LOPEZ N° 1730 NUMERO #1730"
+                                ],
+                                "dNumCas": [
+                                    "1730"
+                                ],
+                                "cDepEmi": [
+                                    "1"
+                                ],
+                                "dDesDepEmi": [
+                                    "CAPITAL"
+                                ],
+                                "cCiuEmi": [
+                                    "1"
+                                ],
+                                "dDesCiuEmi": [
+                                    "ASUNCION (DISTRITO)"
+                                ],
+                                "dTelEmi": [
+                                    "0212499000"
+                                ],
+                                "dEmailE": [
+                                    "IMPUESTOS_PARAGUAY@CLARO.COM.AR"
+                                ],
+                                "gActEco": [
+                                    {
+                                        "cActEco": [
+                                            "61001"
+                                        ],
+                                        "dDesActEco": [
+                                            "TELECOMUNICACIONES"
+                                        ]
+                                    }
+                                ]
+                            }
+                        ],
+                        "gDatRec": [
+                            {
+                                "iNatRec": [
+                                    "1"
+                                ],
+                                "iTiOpe": [
+                                    "1"
+                                ],
+                                "cPaisRec": [
+                                    "PRY"
+                                ],
+                                "dDesPaisRe": [
+                                    "PARAGUAY"
+                                ],
+                                "iTiContRec": [
+                                    "1"
+                                ],
+                                "dRucRec": [
+                                    "4001413"
+                                ],
+                                "dDVRec": [
+                                    "4"
+                                ],
+                                "dNomRec": [
+                                    "ALVAREZ ARNALDO FABIAN"
+                                ],
+                                "dCodCliente": [
+                                    "832828"
+                                ]
+                            }
+                        ]
+                    }
+                ],
+                "gDtipDE": [
+                    {
+                        "gCamFE": [
+                            {
+                                "iIndPres": [
+                                    "6"
+                                ],
+                                "dDesIndPres": [
+                                    "Operación cíclica"
+                                ]
+                            }
+                        ],
+                        "gCamCond": [
+                            {
+                                "iCondOpe": [
+                                    "2"
+                                ],
+                                "dDCondOpe": [
+                                    "Crédito"
+                                ],
+                                "gPagCred": [
+                                    {
+                                        "iCondCred": [
+                                            "1"
+                                        ],
+                                        "dDCondCred": [
+                                            "Plazo"
+                                        ],
+                                        "dPlazoCre": [
+                                            "21 días"
+                                        ]
+                                    }
+                                ]
+                            }
+                        ],
+                        "gCamItem": [
+                            {
+                                "dCodInt": [
+                                    "00046"
+                                ],
+                                "dDesProSer": [
+                                    "CARGOS DEL PERIODO"
+                                ],
+                                "cUniMed": [
+                                    "77"
+                                ],
+                                "dDesUniMed": [
+                                    "UNI"
+                                ],
+                                "dCantProSer": [
+                                    "1"
+                                ],
+                                "cPaisOrig": [
+                                    "PRY"
+                                ],
+                                "dDesPaisOrig": [
+                                    "PARAGUAY"
+                                ],
+                                "gValorItem": [
+                                    {
+                                        "dPUniProSer": [
+                                            "166268.0"
+                                        ],
+                                        "dTotBruOpeItem": [
+                                            "166268.0"
+                                        ],
+                                        "gValorRestaItem": [
+                                            {
+                                                "dDescItem": [
+                                                    "0"
+                                                ],
+                                                "dTotOpeItem": [
+                                                    "166268.0"
+                                                ]
+                                            }
+                                        ]
+                                    }
+                                ],
+                                "gCamIVA": [
+                                    {
+                                        "iAfecIVA": [
+                                            "1"
+                                        ],
+                                        "dDesAfecIVA": [
+                                            "Gravado IVA"
+                                        ],
+                                        "dPropIVA": [
+                                            "100"
+                                        ],
+                                        "dTasaIVA": [
+                                            "10"
+                                        ],
+                                        "dBasGravIVA": [
+                                            "151152.72727273"
+                                        ],
+                                        "dLiqIVAItem": [
+                                            "15115.27272727"
+                                        ]
+                                    }
+                                ]
+                            }
+                        ],
+                        "gCamEsp": [
+                            {
+                                "gGrupAdi": [
+                                    {
+                                        "dCiclo": [
+                                            "07022"
+                                        ],
+                                        "dFecIniC": [
+                                            "2022-07-23"
+                                        ],
+                                        "dFecFinC": [
+                                            "2022-08-22"
+                                        ],
+                                        "dVencPag": [
+                                            "2022-09-13"
+                                        ],
+                                        "dContrato": [
+                                            "0027959956"
+                                        ],
+                                        "dSalAnt": [
+                                            "330730.0"
+                                        ]
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ],
+                "gTotSub": [
+                    {
+                        "dSubExe": [
+                            "0.0"
+                        ],
+                        "dSub5": [
+                            "0.0"
+                        ],
+                        "dSub10": [
+                            "166268.0"
+                        ],
+                        "dTotOpe": [
+                            "166268.0"
+                        ],
+                        "dTotDesc": [
+                            "0"
+                        ],
+                        "dTotDescGlotem": [
+                            "0"
+                        ],
+                        "dTotAntItem": [
+                            "0"
+                        ],
+                        "dTotAnt": [
+                            "0"
+                        ],
+                        "dPorcDescTotal": [
+                            "0"
+                        ],
+                        "dDescTotal": [
+                            "0"
+                        ],
+                        "dAnticipo": [
+                            "0"
+                        ],
+                        "dRedon": [
+                            "18.0"
+                        ],
+                        "dTotGralOpe": [
+                            "166250.0"
+                        ],
+                        "dIVA10": [
+                            "15115.27272727"
+                        ],
+                        "dLiqTotIVA10": [
+                            "1.63636364"
+                        ],
+                        "dTotIVA": [
+                            "15113.63636363"
+                        ],
+                        "dBaseGrav10": [
+                            "151152.72727273"
+                        ],
+                        "dTBasGraIVA": [
+                            "151152.72727273"
+                        ]
+                    }
+                ]
+            }
+        ],
+        "Signature": [
+            {
+                "xmlns": [
+                    "http://www.w3.org/2000/09/xmldsig#"
+                ],
+                "SignedInfo": [
+                    {
+                        "CanonicalizationMethod": [
+                            {
+                                "Algorithm": [
+                                    "http://www.w3.org/TR/2001/REC-xml-c14n-20010315"
+                                ]
+                            }
+                        ],
+                        "SignatureMethod": [
+                            {
+                                "Algorithm": [
+                                    "http://www.w3.org/2001/04/xmldsig-more#rsa-sha256"
+                                ]
+                            }
+                        ],
+                        "Reference": [
+                            {
+                                "URI": [
+                                    "#01800305728001001056626222022082211914235227"
+                                ],
+                                "Transforms": [
+                                    {
+                                        "Transform": [
+                                            {
+                                                "Algorithm": [
+                                                    "http://www.w3.org/2000/09/xmldsig#enveloped-signature"
+                                                ]
+                                            },
+                                            {
+                                                "Algorithm": [
+                                                    "http://www.w3.org/2001/10/xml-exc-c14n#"
+                                                ]
+                                            }
+                                        ]
+                                    }
+                                ],
+                                "DigestMethod": [
+                                    {
+                                        "Algorithm": [
+                                            "http://www.w3.org/2001/04/xmlenc#sha256"
+                                        ]
+                                    }
+                                ],
+                                "DigestValue": [
+                                    "zgqSiXsNDp5Mqtnxy/v1U229m3Rgh4up5kQHs1L0uUc="
+                                ]
+                            }
+                        ]
+                    }
+                ],
+                "SignatureValue": [
+                    "Wpu0Embav231IJgFI3gsQlB7HRNIQeWwYL55Vc++3XU5ErYDAMI1FrQFbY+JhDrc2vi5pA+3EBIA\nG+G9FSrIGVkBsgFmm/8ljrzD+4dOnVdhKEM8IdCPb0QQMYLNce+eNBT8vtcJrPYdlZWv8/rekLrq\nEkXteAfUQNFNVclnJPVhc2l1HTz39RcbN6Z65pnsR8TRbuSERvD86IGBOzxLNJ8HV5TeZ7bQYHkh\ne+1pC5SYBL99AqCfH+hrGcXnzwxmbinnwTDOSX8achA8m2INwJT9FQ8qma3+m33NKISu3ni4MUXk\nA8nuIQbDZ+yR7VK7+3AkEGjQVBjVfMSWGo+urQ=="
+                ],
+                "KeyInfo": [
+                    {
+                        "X509Data": [
+                            {
+                                "X509Certificate": [
+                                    "MIIIazCCBlOgAwIBAgITXAAAvoYEBdd+FXvqyAAAAAC+hjANBgkqhkiG9w0BAQsFADBXMRcwFQYD\nVQQFEw5SVUMgODAwODA2MTAtNzEVMBMGA1UEChMMQ09ERTEwMCBTLkEuMQswCQYDVQQGEwJQWTEY\nMBYGA1UEAxMPQ0EtQ09ERTEwMCBTLkEuMB4XDTIyMDcyMDE0MjA0N1oXDTIzMDcyMDE0MjA0N1ow\ngZcxHjAcBgNVBAMTFUVETkEgSEVSTkFOREVaIE9DQURJWjEXMBUGA1UEChMOUEVSU09OQSBGSVNJ\nQ0ExCzAJBgNVBAYTAlBZMQ0wCwYDVQQqEwRFRE5BMRkwFwYDVQQEExBIRVJOQU5ERVogT0NBREla\nMRIwEAYDVQQFEwlDSTY5MDQxNDQxETAPBgNVBAsTCEZJUk1BIEYxMIIBIjANBgkqhkiG9w0BAQEF\nAAOCAQ8AMIIBCgKCAQEAnd40SUwc4qgP4pRKm7jWp17yTVbzfLTcLJijYxGnx3BkePxNDmrVhcS1\nrhaVmuXBs4oEJ6r7D8QFlVfL1JbMwptU5s9pk5W8/qoay7RJpxHYYCp/Xj09LuEk+Ba8NSkUAZtg\npKTvOoLiWnerPnwtMZiFsHYknnO+CZy0UvbeeZUH66n6b36R+KA2FkeYigxfQuci4NrqFZprtfPR\nWvBSYN8+YeK2wgbhnfwM7acSqc+LlNH2/oJDHy4dF3/6aUA90UpsCSbnpvnBy0wJUiXotMDdHxW7\nV0pXkd0v1NnSw/uiSpTDO1GspXhkcK1edYcyMDcGxUuOerSXgF/ElP8/oQIDAQABo4ID7TCCA+kw\nDgYDVR0PAQH/BAQDAgXgMAwGA1UdEwEB/wQCMAAwIAYDVR0lAQH/BBYwFAYIKwYBBQUHAwIGCCsG\nAQUFBwMEMB0GA1UdDgQWBBRxO6pZL4L9k9sJbl+IsL5EURzN8jAfBgNVHSMEGDAWgBQn9to7C3+T\n+FkS0BWqQs+ylpY9RTCBiAYDVR0fBIGAMH4wfKB6oHiGOmh0dHA6Ly9jYTEuY29kZTEwMC5jb20u\ncHkvZmlybWEtZGlnaXRhbC9jcmwvQ0EtQ09ERTEwMC5jcmyGOmh0dHA6Ly9jYTIuY29kZTEwMC5j\nb20ucHkvZmlybWEtZGlnaXRhbC9jcmwvQ0EtQ09ERTEwMC5jcmwwgfgGCCsGAQUFBwEBBIHrMIHo\nMEYGCCsGAQUFBzAChjpodHRwOi8vY2ExLmNvZGUxMDAuY29tLnB5L2Zpcm1hLWRpZ2l0YWwvY2Vy\nL0NBLUNPREUxMDAuY2VyMEYGCCsGAQUFBzAChjpodHRwOi8vY2EyLmNvZGUxMDAuY29tLnB5L2Zp\ncm1hLWRpZ2l0YWwvY2VyL0NBLUNPREUxMDAuY2VyMCoGCCsGAQUFBzABhh5odHRwOi8vY2ExLmNv\nZGUxMDAuY29tLnB5L29jc3AwKgYIKwYBBQUHMAGGHmh0dHA6Ly9jYTIuY29kZTEwMC5jb20ucHkv\nb2NzcDCCAU8GA1UdIASCAUYwggFCMIIBPgYMKwYBBAGC2UoBAQEGMIIBLDBsBggrBgEFBQcCARZg\naHR0cDovL3d3dy5jb2RlMTAwLmNvbS5weS9maXJtYS1kaWdpdGFsL0NPREUxMDAlMjBQb2xpdGlj\nYSUyMGRlJTIwQ2VydGlmaWNhY2lvbiUyMEYxJTIwdjEuMC5wZGYAMGYGCCsGAQUFBwICMFoeWABQ\nAG8AbABpAHQAaQBjAGEAIABkAGUAIABjAGUAcgB0AGkAZgBpAGMAYQBjAGkAbwBuACAARgAxACAA\nZABlACAAQwBvAGQAZQAxADAAMAAgAFMALgBBAC4wVAYIKwYBBQUHAgIwSB5GAEMAbwBkAGUAIAAx\nADAAMAAgAFMALgBBAC4AIABDAGUAcgB0AGkAZgBpAGMAYQB0AGUAIABQAG8AbABpAGMAeQAgAEYA\nMTCBjQYDVR0RBIGFMIGCgR1FSEVSTkFOREVaT0NBRElaQENMQVJPLkNPTS5QWaRhMF8xEjAQBgNV\nBAwTCUFQT0RFUkFETzEWMBQGA1UEBRMNUlVDODAwMzA1NzItODEXMBUGA1UECxMOQURNSU5JU1RS\nQVRJVkExGDAWBgNVBAoTD0FNWCBQQVJBR1VBWSBTQTANBgkqhkiG9w0BAQsFAAOCAgEAVJ3Az+16\nHzHNRnmr4/Fl7YeRAOK/lHJ0rKMftX4pnc1+nQjWnedPx5axuXze9Fgk2Kv0sRj7uGq9swsD2hgx\nygPRm3Zits/Sp9wUyDxYdpocY3SMGtn3N2W1ucwkXs1ba1nvUz68o6tMR+Jyw+/5krZ1hYXA0ti2\njRwm06Rw1ow6datsgrzhYhGlBBaH9Dop9CUtk0OsiYf2CN5XuD8v/Fyoex3o6V3u7mbOxyjNG6FZ\nlnnxk+Heug8NoEML8AvMsDoMM6WCpi0vca1bl957+NrgDPm2I8Mi5pEoxwt/niBkolpzhWolNRHN\n4bdViLIvNDXuhsb4fe5CE6xeufqMRHjup5uv1Vjg8+Qgna0jnzxvKRU60OalpherfpcG5OLdkl0D\nvN7DKWKzmGaohc32qkT7AeIY2tE5Z0m0WZ/UGV02bInDGLaSBCl/+MN0u0i8DnIX5LpSSb3AJPnr\nAjZf8cqdJidz6BmM6xcrxZo4w8gWqripVhgiQclVFEWuTdxstRtw1l3Ji2XDoluokSCnODNhgDe7\nQWj397Gf4i1YZhKqJwQo3zv0ix+KSs/i0t1B36nqvFV6Hfb8VDMxRcnQ/yDi3ZYAAQ/Hk2n0w46v\nO/JrfmS8YxfRqoY5Qwh5r1E/n/PEfKrY9l6/5xS6VutCnpaZOC5YxThIzb8VujR+prE="
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "gCamFuFD": [
+            {
+                "dCarQR": [
+                    "https://ekuatia.set.gov.py/consultas/qr?nVersion=150&Id=01800305728001001056626222022082211914235227&dFeEmiDE=323032322d30382d32325432333a35393a3539&dRucRec=4001413&dTotGralOpe=166250.0&dTotIVA=15113.63636363&cItems=1&DigestValue=7a6771536958734e4470354d71746e78792f7631553232396d33526768347570356b514873314c307555633d&IdCSC=0001&cHashQR=ef3392cdc68f6e0931d3162fe37622b74b0ce280e3bd4cf466f81afe6e407414"
+                ]
+            }
+        ]
+    }
+}

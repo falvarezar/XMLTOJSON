@@ -1,0 +1,857 @@
+{
+    "rDE": {
+        "xmlns": [
+            "http://ekuatia.set.gov.py/sifen/xsd"
+        ],
+        "xmlns:xsi": [
+            "http://www.w3.org/2001/XMLSchema-instance"
+        ],
+        "xsi:schemaLocation": [
+            "http://ekuatia.set.gov.py/sifen/xsd siRecepDE_v150.xsd"
+        ],
+        "dVerFor": [
+            "150"
+        ],
+        "DE": [
+            {
+                "Id": [
+                    "01801111480004001003458422022070911514711109"
+                ],
+                "dDVId": [
+                    "9"
+                ],
+                "dFecFirma": [
+                    "2022-07-09T19:23:47"
+                ],
+                "dSisFact": [
+                    "1"
+                ],
+                "gOpeDE": [
+                    {
+                        "iTipEmi": [
+                            "1"
+                        ],
+                        "dDesTipEmi": [
+                            "Normal"
+                        ],
+                        "dCodSeg": [
+                            "151471110"
+                        ]
+                    }
+                ],
+                "gTimb": [
+                    {
+                        "iTiDE": [
+                            "1"
+                        ],
+                        "dDesTiDE": [
+                            "Factura electrónica"
+                        ],
+                        "dNumTim": [
+                            "15402428"
+                        ],
+                        "dEst": [
+                            "004"
+                        ],
+                        "dPunExp": [
+                            "001"
+                        ],
+                        "dNumDoc": [
+                            "0034584"
+                        ],
+                        "dFeIniT": [
+                            "2022-02-01"
+                        ]
+                    }
+                ],
+                "gDatGralOpe": [
+                    {
+                        "dFeEmiDE": [
+                            "2022-07-09T00:00:00"
+                        ],
+                        "gOpeCom": [
+                            {
+                                "iTipTra": [
+                                    "2"
+                                ],
+                                "dDesTipTra": [
+                                    "Prestación de servicios"
+                                ],
+                                "iTImp": [
+                                    "1"
+                                ],
+                                "dDesTImp": [
+                                    "IVA"
+                                ],
+                                "cMoneOpe": [
+                                    "PYG"
+                                ],
+                                "dDesMoneOpe": [
+                                    "Guarani"
+                                ]
+                            }
+                        ],
+                        "gEmis": [
+                            {
+                                "dRucEm": [
+                                    "80111148"
+                                ],
+                                "dDVEmi": [
+                                    "0"
+                                ],
+                                "iTipCont": [
+                                    "2"
+                                ],
+                                "dNomEmi": [
+                                    "DELIVERY HERO DMART PARAGUAY SA"
+                                ],
+                                "dNomFanEmi": [
+                                    "PEDIDOS YA MARKET"
+                                ],
+                                "dDirEmi": [
+                                    "Roque Centurion Miranda c/ Av. San Martin"
+                                ],
+                                "dNumCas": [
+                                    "1620"
+                                ],
+                                "dCompDir2": [
+                                    "Asunción"
+                                ],
+                                "cDepEmi": [
+                                    "1"
+                                ],
+                                "dDesDepEmi": [
+                                    "CAPITAL"
+                                ],
+                                "cDisEmi": [
+                                    "1"
+                                ],
+                                "dDesDisEmi": [
+                                    "ASUNCION (DISTRITO)"
+                                ],
+                                "cCiuEmi": [
+                                    "1"
+                                ],
+                                "dDesCiuEmi": [
+                                    "ASUNCION (DISTRITO)"
+                                ],
+                                "dTelEmi": [
+                                    "0213284015"
+                                ],
+                                "dEmailE": [
+                                    "contacto@pedidosya.com.py"
+                                ],
+                                "gActEco": [
+                                    {
+                                        "cActEco": [
+                                            "47910"
+                                        ],
+                                        "dDesActEco": [
+                                            "Comercio al por menor a través de empresas de comercio por correo o Internet"
+                                        ]
+                                    }
+                                ]
+                            }
+                        ],
+                        "gDatRec": [
+                            {
+                                "iNatRec": [
+                                    "1"
+                                ],
+                                "iTiOpe": [
+                                    "1"
+                                ],
+                                "cPaisRec": [
+                                    "PRY"
+                                ],
+                                "dDesPaisRe": [
+                                    "Paraguay"
+                                ],
+                                "iTiContRec": [
+                                    "2"
+                                ],
+                                "dRucRec": [
+                                    "4001413"
+                                ],
+                                "dDVRec": [
+                                    "4"
+                                ],
+                                "dNomRec": [
+                                    "Fabian Alvarez"
+                                ],
+                                "dEmailRec": [
+                                    "falvarez_arnaldo@hotmail.com"
+                                ]
+                            }
+                        ]
+                    }
+                ],
+                "gDtipDE": [
+                    {
+                        "gCamFE": [
+                            {
+                                "iIndPres": [
+                                    "1"
+                                ],
+                                "dDesIndPres": [
+                                    "Operación presencial"
+                                ]
+                            }
+                        ],
+                        "gCamCond": [
+                            {
+                                "iCondOpe": [
+                                    "1"
+                                ],
+                                "dDCondOpe": [
+                                    "Contado"
+                                ],
+                                "gPaConEIni": [
+                                    {
+                                        "iTiPago": [
+                                            "1"
+                                        ],
+                                        "dDesTiPag": [
+                                            "Efectivo"
+                                        ],
+                                        "dMonTiPag": [
+                                            "13850.23"
+                                        ],
+                                        "cMoneTiPag": [
+                                            "PYG"
+                                        ],
+                                        "dDMoneTiPag": [
+                                            "Guarani"
+                                        ]
+                                    }
+                                ]
+                            }
+                        ],
+                        "gCamItem": [
+                            {
+                                "dCodInt": [
+                                    "0"
+                                ],
+                                "dDesProSer": [
+                                    "Yoghurt Entero Durazno Pote Lactolanda 350 Gr"
+                                ],
+                                "cUniMed": [
+                                    "77"
+                                ],
+                                "dDesUniMed": [
+                                    "UNI"
+                                ],
+                                "dCantProSer": [
+                                    "1"
+                                ],
+                                "gValorItem": [
+                                    {
+                                        "dPUniProSer": [
+                                            "4250"
+                                        ],
+                                        "dTotBruOpeItem": [
+                                            "4250"
+                                        ],
+                                        "gValorRestaItem": [
+                                            {
+                                                "dDescItem": [
+                                                    "2652.59"
+                                                ],
+                                                "dPorcDesIt": [
+                                                    "62.41388235"
+                                                ],
+                                                "dDescGloItem": [
+                                                    "0"
+                                                ],
+                                                "dTotOpeItem": [
+                                                    "1597.41"
+                                                ]
+                                            }
+                                        ]
+                                    }
+                                ],
+                                "gCamIVA": [
+                                    {
+                                        "iAfecIVA": [
+                                            "1"
+                                        ],
+                                        "dDesAfecIVA": [
+                                            "Gravado IVA"
+                                        ],
+                                        "dPropIVA": [
+                                            "100"
+                                        ],
+                                        "dTasaIVA": [
+                                            "10"
+                                        ],
+                                        "dBasGravIVA": [
+                                            "1452.19090909"
+                                        ],
+                                        "dLiqIVAItem": [
+                                            "145.21909091"
+                                        ]
+                                    }
+                                ]
+                            },
+                            {
+                                "dCodInt": [
+                                    "0"
+                                ],
+                                "dDesProSer": [
+                                    "Yoghurt Griego Los Colonos De Durazno 125 Gr"
+                                ],
+                                "cUniMed": [
+                                    "77"
+                                ],
+                                "dDesUniMed": [
+                                    "UNI"
+                                ],
+                                "dCantProSer": [
+                                    "1"
+                                ],
+                                "gValorItem": [
+                                    {
+                                        "dPUniProSer": [
+                                            "3950"
+                                        ],
+                                        "dTotBruOpeItem": [
+                                            "3950"
+                                        ],
+                                        "gValorRestaItem": [
+                                            {
+                                                "dDescItem": [
+                                                    "2465.37"
+                                                ],
+                                                "dPorcDesIt": [
+                                                    "62.41443038"
+                                                ],
+                                                "dDescGloItem": [
+                                                    "0"
+                                                ],
+                                                "dTotOpeItem": [
+                                                    "1484.63"
+                                                ]
+                                            }
+                                        ]
+                                    }
+                                ],
+                                "gCamIVA": [
+                                    {
+                                        "iAfecIVA": [
+                                            "1"
+                                        ],
+                                        "dDesAfecIVA": [
+                                            "Gravado IVA"
+                                        ],
+                                        "dPropIVA": [
+                                            "100"
+                                        ],
+                                        "dTasaIVA": [
+                                            "10"
+                                        ],
+                                        "dBasGravIVA": [
+                                            "1349.66363636"
+                                        ],
+                                        "dLiqIVAItem": [
+                                            "134.96636364"
+                                        ]
+                                    }
+                                ]
+                            },
+                            {
+                                "dCodInt": [
+                                    "0"
+                                ],
+                                "dDesProSer": [
+                                    "Yoghurt Griego Los Colonos De Arandano 125 Gr"
+                                ],
+                                "cUniMed": [
+                                    "77"
+                                ],
+                                "dDesUniMed": [
+                                    "UNI"
+                                ],
+                                "dCantProSer": [
+                                    "1"
+                                ],
+                                "gValorItem": [
+                                    {
+                                        "dPUniProSer": [
+                                            "3950"
+                                        ],
+                                        "dTotBruOpeItem": [
+                                            "3950"
+                                        ],
+                                        "gValorRestaItem": [
+                                            {
+                                                "dDescItem": [
+                                                    "2465.37"
+                                                ],
+                                                "dPorcDesIt": [
+                                                    "62.41443038"
+                                                ],
+                                                "dDescGloItem": [
+                                                    "0"
+                                                ],
+                                                "dTotOpeItem": [
+                                                    "1484.63"
+                                                ]
+                                            }
+                                        ]
+                                    }
+                                ],
+                                "gCamIVA": [
+                                    {
+                                        "iAfecIVA": [
+                                            "1"
+                                        ],
+                                        "dDesAfecIVA": [
+                                            "Gravado IVA"
+                                        ],
+                                        "dPropIVA": [
+                                            "100"
+                                        ],
+                                        "dTasaIVA": [
+                                            "10"
+                                        ],
+                                        "dBasGravIVA": [
+                                            "1349.66363636"
+                                        ],
+                                        "dLiqIVAItem": [
+                                            "134.96636364"
+                                        ]
+                                    }
+                                ]
+                            },
+                            {
+                                "dCodInt": [
+                                    "0"
+                                ],
+                                "dDesProSer": [
+                                    "Bebida Lactea UAT Chocolanda 500 Ml"
+                                ],
+                                "cUniMed": [
+                                    "77"
+                                ],
+                                "dDesUniMed": [
+                                    "UNI"
+                                ],
+                                "dCantProSer": [
+                                    "1"
+                                ],
+                                "gValorItem": [
+                                    {
+                                        "dPUniProSer": [
+                                            "4650"
+                                        ],
+                                        "dTotBruOpeItem": [
+                                            "4650"
+                                        ],
+                                        "gValorRestaItem": [
+                                            {
+                                                "dDescItem": [
+                                                    "2902.37"
+                                                ],
+                                                "dPorcDesIt": [
+                                                    "62.41655914"
+                                                ],
+                                                "dDescGloItem": [
+                                                    "0"
+                                                ],
+                                                "dTotOpeItem": [
+                                                    "1747.63"
+                                                ]
+                                            }
+                                        ]
+                                    }
+                                ],
+                                "gCamIVA": [
+                                    {
+                                        "iAfecIVA": [
+                                            "1"
+                                        ],
+                                        "dDesAfecIVA": [
+                                            "Gravado IVA"
+                                        ],
+                                        "dPropIVA": [
+                                            "100"
+                                        ],
+                                        "dTasaIVA": [
+                                            "10"
+                                        ],
+                                        "dBasGravIVA": [
+                                            "1588.75454545"
+                                        ],
+                                        "dLiqIVAItem": [
+                                            "158.87545455"
+                                        ]
+                                    }
+                                ]
+                            },
+                            {
+                                "dCodInt": [
+                                    "0"
+                                ],
+                                "dDesProSer": [
+                                    "Yoghurt Entero Pina Pote Lactolanda 350 Gr"
+                                ],
+                                "cUniMed": [
+                                    "77"
+                                ],
+                                "dDesUniMed": [
+                                    "UNI"
+                                ],
+                                "dCantProSer": [
+                                    "1"
+                                ],
+                                "gValorItem": [
+                                    {
+                                        "dPUniProSer": [
+                                            "4250"
+                                        ],
+                                        "dTotBruOpeItem": [
+                                            "4250"
+                                        ],
+                                        "gValorRestaItem": [
+                                            {
+                                                "dDescItem": [
+                                                    "2652.59"
+                                                ],
+                                                "dPorcDesIt": [
+                                                    "62.41388235"
+                                                ],
+                                                "dDescGloItem": [
+                                                    "0"
+                                                ],
+                                                "dTotOpeItem": [
+                                                    "1597.41"
+                                                ]
+                                            }
+                                        ]
+                                    }
+                                ],
+                                "gCamIVA": [
+                                    {
+                                        "iAfecIVA": [
+                                            "1"
+                                        ],
+                                        "dDesAfecIVA": [
+                                            "Gravado IVA"
+                                        ],
+                                        "dPropIVA": [
+                                            "100"
+                                        ],
+                                        "dTasaIVA": [
+                                            "10"
+                                        ],
+                                        "dBasGravIVA": [
+                                            "1452.19090909"
+                                        ],
+                                        "dLiqIVAItem": [
+                                            "145.21909091"
+                                        ]
+                                    }
+                                ]
+                            },
+                            {
+                                "dCodInt": [
+                                    "0"
+                                ],
+                                "dDesProSer": [
+                                    "Yoghurt Griego Los Colonos De Ciruela 125 Gr"
+                                ],
+                                "cUniMed": [
+                                    "77"
+                                ],
+                                "dDesUniMed": [
+                                    "UNI"
+                                ],
+                                "dCantProSer": [
+                                    "2"
+                                ],
+                                "gValorItem": [
+                                    {
+                                        "dPUniProSer": [
+                                            "3950"
+                                        ],
+                                        "dTotBruOpeItem": [
+                                            "7900"
+                                        ],
+                                        "gValorRestaItem": [
+                                            {
+                                                "dDescItem": [
+                                                    "2465.37"
+                                                ],
+                                                "dPorcDesIt": [
+                                                    "62.41443038"
+                                                ],
+                                                "dDescGloItem": [
+                                                    "0"
+                                                ],
+                                                "dTotOpeItem": [
+                                                    "2969.26"
+                                                ]
+                                            }
+                                        ]
+                                    }
+                                ],
+                                "gCamIVA": [
+                                    {
+                                        "iAfecIVA": [
+                                            "1"
+                                        ],
+                                        "dDesAfecIVA": [
+                                            "Gravado IVA"
+                                        ],
+                                        "dPropIVA": [
+                                            "100"
+                                        ],
+                                        "dTasaIVA": [
+                                            "10"
+                                        ],
+                                        "dBasGravIVA": [
+                                            "2699.32727273"
+                                        ],
+                                        "dLiqIVAItem": [
+                                            "269.93272727"
+                                        ]
+                                    }
+                                ]
+                            },
+                            {
+                                "dCodInt": [
+                                    "0"
+                                ],
+                                "dDesProSer": [
+                                    "Yoghurt Griego Los Colonos De Frutilla 125 Gr"
+                                ],
+                                "cUniMed": [
+                                    "77"
+                                ],
+                                "dDesUniMed": [
+                                    "UNI"
+                                ],
+                                "dCantProSer": [
+                                    "2"
+                                ],
+                                "gValorItem": [
+                                    {
+                                        "dPUniProSer": [
+                                            "3950"
+                                        ],
+                                        "dTotBruOpeItem": [
+                                            "7900"
+                                        ],
+                                        "gValorRestaItem": [
+                                            {
+                                                "dDescItem": [
+                                                    "2465.37"
+                                                ],
+                                                "dPorcDesIt": [
+                                                    "62.41443038"
+                                                ],
+                                                "dDescGloItem": [
+                                                    "0"
+                                                ],
+                                                "dTotOpeItem": [
+                                                    "2969.26"
+                                                ]
+                                            }
+                                        ]
+                                    }
+                                ],
+                                "gCamIVA": [
+                                    {
+                                        "iAfecIVA": [
+                                            "1"
+                                        ],
+                                        "dDesAfecIVA": [
+                                            "Gravado IVA"
+                                        ],
+                                        "dPropIVA": [
+                                            "100"
+                                        ],
+                                        "dTasaIVA": [
+                                            "10"
+                                        ],
+                                        "dBasGravIVA": [
+                                            "2699.32727273"
+                                        ],
+                                        "dLiqIVAItem": [
+                                            "269.93272727"
+                                        ]
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ],
+                "gTotSub": [
+                    {
+                        "dSubExe": [
+                            "0"
+                        ],
+                        "dSubExo": [
+                            "0"
+                        ],
+                        "dSub5": [
+                            "0"
+                        ],
+                        "dSub10": [
+                            "13850.23"
+                        ],
+                        "dTotOpe": [
+                            "13850.23"
+                        ],
+                        "dTotDesc": [
+                            "22999.77"
+                        ],
+                        "dTotDescGlotem": [
+                            "0"
+                        ],
+                        "dTotAntItem": [
+                            "0"
+                        ],
+                        "dTotAnt": [
+                            "0"
+                        ],
+                        "dPorcDescTotal": [
+                            "0"
+                        ],
+                        "dDescTotal": [
+                            "22999.77"
+                        ],
+                        "dAnticipo": [
+                            "0"
+                        ],
+                        "dRedon": [
+                            "0"
+                        ],
+                        "dComi": [
+                            "0"
+                        ],
+                        "dTotGralOpe": [
+                            "13850.23"
+                        ],
+                        "dIVA5": [
+                            "0"
+                        ],
+                        "dIVA10": [
+                            "1259.11181819"
+                        ],
+                        "dLiqTotIVA5": [
+                            "0"
+                        ],
+                        "dLiqTotIVA10": [
+                            "0"
+                        ],
+                        "dIVAComi": [
+                            "0"
+                        ],
+                        "dTotIVA": [
+                            "1259.11181819"
+                        ],
+                        "dBaseGrav5": [
+                            "0"
+                        ],
+                        "dBaseGrav10": [
+                            "12591.11818181"
+                        ],
+                        "dTBasGraIVA": [
+                            "12591.11818181"
+                        ]
+                    }
+                ]
+            }
+        ],
+        "Signature": [
+            {
+                "xmlns": [
+                    "http://www.w3.org/2000/09/xmldsig#"
+                ],
+                "SignedInfo": [
+                    {
+                        "CanonicalizationMethod": [
+                            {
+                                "Algorithm": [
+                                    "http://www.w3.org/TR/2001/REC-xml-c14n-20010315"
+                                ]
+                            }
+                        ],
+                        "SignatureMethod": [
+                            {
+                                "Algorithm": [
+                                    "http://www.w3.org/2001/04/xmldsig-more#rsa-sha256"
+                                ]
+                            }
+                        ],
+                        "Reference": [
+                            {
+                                "URI": [
+                                    "#01801111480004001003458422022070911514711109"
+                                ],
+                                "Transforms": [
+                                    {
+                                        "Transform": [
+                                            {
+                                                "Algorithm": [
+                                                    "http://www.w3.org/2000/09/xmldsig#enveloped-signature"
+                                                ]
+                                            },
+                                            {
+                                                "Algorithm": [
+                                                    "http://www.w3.org/2001/10/xml-exc-c14n#"
+                                                ]
+                                            }
+                                        ]
+                                    }
+                                ],
+                                "DigestMethod": [
+                                    {
+                                        "Algorithm": [
+                                            "http://www.w3.org/2001/04/xmlenc#sha256"
+                                        ]
+                                    }
+                                ],
+                                "DigestValue": [
+                                    "Ixdnsog15bLHVFL/GiVMj3psY3NBPil18wBPUobGOCQ="
+                                ]
+                            }
+                        ]
+                    }
+                ],
+                "SignatureValue": [
+                    "gK1yykCV7N4wwgsOayREWJvSNoFaIfXMtA72sfPUbdxRpODQVWRPPh1F5CZEbES0YC6Wi55EcUINBDxaPAq6citu1Kmhg2DV/SY+0x0WQpvfdR5WB5IC2Elic3hrUzYY2DjJxnLjdyzU+4jpuoR9Jm9PPXZpjdrY6iGZhyX7Sy86tNYJQte8wVrv8rD/mBsq52IymQMaMEGnrParZ49bxKWBLS5mSpWSr6wls1Wm7YT3wBvw4HxwR8Oybf1782gFXQtmPQ9vu22IzQMf+oGDXkQRl2TK9ifXh1NIkMvRQ1lUVZwcocFdC/OTIgKNMspOPBWZHE+27x5NnpxhGlSUMw=="
+                ],
+                "KeyInfo": [
+                    {
+                        "X509Data": [
+                            {
+                                "X509IssuerSerial": [
+                                    {
+                                        "X509IssuerName": [
+                                            "CN=CA-VIT S.A., O=VIT S.A., C=PY, SERIALNUMBER=RUC 80080099-0"
+                                        ],
+                                        "X509SerialNumber": [
+                                            "20320024597643412529778063594042787705"
+                                        ]
+                                    }
+                                ],
+                                "X509Certificate": [
+                                    "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"
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "gCamFuFD": [
+            {
+                "dCarQR": [
+                    "https://ekuatia.set.gov.py/consultas/qr?nVersion=150&Id=01801111480004001003458422022070911514711109&dFeEmiDE=323032322d30372d30395430303a30303a3030&dRucRec=4001413&dTotGralOpe=13850.23&dTotIVA=1259.11181819&cItems=7&DigestValue=4978646e736f673135624c4856464c2f4769564d6a33707359334e4250696c3138774250556f62474f43513d&IdCSC=0001&cHashQR=0ec070cc74dbbdd3fa24a5f9bfe71f6fe2c165257b48f0abe933b0fc3edf687a"
+                ]
+            }
+        ]
+    }
+}
